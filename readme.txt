@@ -1,4 +1,5 @@
-To access the website,
-Double click on 'app.py', go the port given in the prompt.
-
-Should have internet connection to access all the features of the website.
+Quote Generator.
+A basic project build on web-scraping.
+Features:
+  - Can generate quotes based on your filter
+  - Can generate random quotes. 
